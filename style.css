@@ -1,0 +1,25 @@
+.navbar{
+    width:auto
+}
+.container.text-block h2{
+    display:flex
+}
+.container.text-block image-fluid{
+    text-align: center;
+}
+image-fluid{
+    padding-left: 50px;
+    width:cover ; 
+}
+image-fluid{
+    align-content: center;
+
+}
+.container img.large{
+         width: auto;
+         height: auto;
+         padding-left: 400;
+}
+    
+
+
